@@ -1,4 +1,4 @@
-Deplayment Link : https://competent-almeida-b5e828.netlify.app/
+Deployed Link : https://competent-almeida-b5e828.netlify.app/
 
 # Getting Started with Create React App
 
